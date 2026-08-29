@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 
-I'm a Full Stack Engineer and Tech Lead with **8+ years of experience** designing and leading scalable, high-availability backend systems — specialized in **POS and retail platforms** handling real-time transactions across **500+ stores**.
+I'm a Full Stack Engineer and Tech Lead with **9+ years of experience** designing and leading scalable, high-availability backend systems — specialized in **POS and retail platforms** handling real-time transactions across **500+ stores**.
 
-- 🏗️ Currently leading a team of **4 engineers** as **Node.js Tech Lead / Backend Architect** at **Accrete Infosolution Technologies LLP**, owning end-to-end backend architecture for [**Billberry POS**](https://www.billberrypos.com).
+- 🏗️ Previously leading a team of **4 engineers** as **Node.js Tech Lead / Backend Architect** at **Accrete Infosolution Technologies Pvt. Ltd.**, owning end-to-end backend architecture for [**Billberry POS**](https://www.billberrypos.com).
 - ⚡ Architected a POS backend supporting **10,000+ daily transactions**, with a centralized real-time socket server, offline-first sync, and a high-availability MySQL setup (Galera Cluster).
 - 💳 Integrated payment gateways (PhonePe, Paytm, Tyro, ANZ) and third-party order platforms (Swiggy/Zomato via UrbanPiper).
 - 🤖 Experienced in **AI-assisted software development** — using modern AI tools for rapid prototyping, code generation, debugging, documentation, and test creation while maintaining high engineering standards.
@@ -59,11 +59,11 @@ I'm a Full Stack Engineer and Tech Lead with **8+ years of experience** designin
 
 ### 💼 Experience
 
-**Accrete Infosolution Technologies LLP** — *Aug 2017 – Present*
+**Accrete Infosolution Technologies Pvt. Ltd.** — *Aug 2017 – Aug 2026*
 
 | Role | Duration |
 |---|---|
-| Node.js Tech Lead / Backend Architect — [Billberry POS](https://www.billberrypos.com) | Apr 2022 – Present |
+| Node.js Tech Lead / Backend Architect — [Billberry POS](https://www.billberrypos.com) | Apr 2022 – Aug 2026 |
 | Software Developer | Apr 2019 – Mar 2022 |
 | Junior Software Developer | Aug 2017 – Mar 2019 |
 
